@@ -17,7 +17,7 @@ DocImageExtractor is a Google Apps Script that allows you to extract links from 
 
 ### Auto Installation
 
-1. [Click here](https://docs.google.com/document/d/1mpwvujBNqwp9zuKfyhne3X8GmWOTexs8O9s5qt5jY4U/edit?usp=sharing) to access the Google Doc containing the image extractor.
+1. <a href="https://docs.google.com/document/d/1mpwvujBNqwp9zuKfyhne3X8GmWOTexs8O9s5qt5jY4U/edit?usp=sharing" target="_blank">Link of the Image</a> to access the Google Doc containing the image extractor.
 2. Go to File > Make a Copy to create a copy of the document.
 3. Confirm any prompts you see.
 4. Reload the copied document, wait for a few seconds, and the image link extractor menu will appear.
@@ -28,13 +28,13 @@ DocImageExtractor is a Google Apps Script that allows you to extract links from 
 
 **A:** Here is a link to the generated image. The original image was deleted on 24 April 2024, and it is still working. Let us know if you encounter any issues.
 
-[Link of the Image](https://lh7-us.googleusercontent.com/bB0jNMZP8pjaQKFPHvkp1kPrCNho8hwNbn1bVhejg7sp4-9Kz8K2DeXnjbY8UpN4kcTBBIm_2xsmHeGo-ypR4qP-ZrsOIc3gglFBuAtYmyb0j_rdisreqKx3-QxprrsrXVIe-Wo8MLEmMGwNY5vayAs)
+<a href="https://lh7-us.googleusercontent.com/bB0jNMZP8pjaQKFPHvkp1kPrCNho8hwNbn1bVhejg7sp4-9Kz8K2DeXnjbY8UpN4kcTBBIm_2xsmHeGo-ypR4qP-ZrsOIc3gglFBuAtYmyb0j_rdisreqKx3-QxprrsrXVIe-Wo8MLEmMGwNY5vayAs" target="_blank">Link of the Image</a>
 
 **Q:** How long does the link last if we keep the image in the document?
 
 **A:** Here is a link to the generated image. The original image has been kept as it is since 24 April 2024, and it is still working. Let us know if you encounter any issues.
 
-[Link of the Image](https://lh7-us.googleusercontent.com/TEZk_OrfwiuLNYYyCNhNcVjNsyxL1D-5RZc-r-qEt5_1ovlph7nqCK_TLtpPpk4bOKsqfzs9Rzlv_vAy8iqzxTc7RjgQvyGW5OfxQdmVeJcD0Ooyi6WgYuX3W2D4X_lYDWJj_pscWgSr1BR9IpVLQlc)
+<a href="https://lh7-us.googleusercontent.com/TEZk_OrfwiuLNYYyCNhNcVjNsyxL1D-5RZc-r-qEt5_1ovlph7nqCK_TLtpPpk4bOKsqfzs9Rzlv_vAy8iqzxTc7RjgQvyGW5OfxQdmVeJcD0Ooyi6WgYuX3W2D4X_lYDWJj_pscWgSr1BR9IpVLQlc" target="_blank">Link of the Image</a>
 
 ## Why Use This?
 
