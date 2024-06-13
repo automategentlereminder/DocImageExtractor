@@ -17,7 +17,7 @@ DocImageExtractor is a Google Apps Script that allows you to extract links from 
 
 ### Auto Installation
 
-1. <a href="https://docs.google.com/document/d/1mpwvujBNqwp9zuKfyhne3X8GmWOTexs8O9s5qt5jY4U/edit?usp=sharing" target="_blank">Link of the Image</a> to access the Google Doc containing the image extractor.
+1. <a href="https://docs.google.com/document/d/1mpwvujBNqwp9zuKfyhne3X8GmWOTexs8O9s5qt5jY4U/edit?usp=sharing" target="_blank">Click the link</a> to access the Google Doc containing the image extractor.
 2. Go to File > Make a Copy to create a copy of the document.
 3. Confirm any prompts you see.
 4. Reload the copied document, wait for a few seconds, and the image link extractor menu will appear.
